@@ -1,4 +1,4 @@
-# Calculadora de ìndice de Massa Corporal (IMC)
+# Calculadora de Índice de Massa Corporal (IMC)
 
 Esta é uma simples calculadora de índice de massa corporal(IMC) desenvolvida em JavaScript que permite aos usuários calcular seu IMC com base em seu peso e altura:
 
